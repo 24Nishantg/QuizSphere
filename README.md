@@ -68,7 +68,7 @@ This section provides a step-by-step walkthrough of the Exam Portal’s main fea
 The Exam Portal includes secure login functionality for both students and admins.
 
 - Login Screen: Users can log in with their credentials to access the portal.
-  - Screenshot:![Alt text](https://drive.google.com/file/d/1H22SnK1FtH0_bY8VL0xK-JG-PzRUc2uy/view?usp=sharing)
+  - Screenshot:![Alt text](https://github.com/user-attachments/assets/3096d86b-52a2-4e2f-a6f2-1321378bc320)
  - Singup Screen: Users can Singup in with their credentials to access the portal.
   - Screenshot:![Alt text](https://drive.google.com/file/d/1QrmQL4_W2LR2t6v8pZAaGpiLPOXmIQb7/view?usp=sharing)
 

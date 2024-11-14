@@ -1,7 +1,3 @@
-Here’s a sample README for your QuizSphere project:
-
----
-
 # QuizSphere
 
 A robust QuizSphere application developed using Angular for the frontend and Spring Boot for the backend. This project is designed to facilitate online exams, providing secure login, real-time exam tracking, and class-specific quiz accessibility. 

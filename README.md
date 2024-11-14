@@ -70,7 +70,7 @@ The Exam Portal includes secure login functionality for both students and admins
 - Login Screen: Users can log in with their credentials to access the portal.
   - Screenshot:![Alt text](https://github.com/user-attachments/assets/3096d86b-52a2-4e2f-a6f2-1321378bc320)
  - Singup Screen: Users can Singup in with their credentials to access the portal.
-  - Screenshot:![Alt text](https://drive.google.com/file/d/1QrmQL4_W2LR2t6v8pZAaGpiLPOXmIQb7/view?usp=sharing)
+  - Screenshot:![Alt text](https://github.com/user-attachments/assets/6b4ba570-6db8-4f42-817c-7eb916ac1e1c)
 
 
  2. Dashboard Overview
@@ -78,9 +78,9 @@ The Exam Portal includes secure login functionality for both students and admins
 Once logged in, users are redirected to the dashboard.
 
 - Student Dashboard: Displays available quizzes, class-specific information, and recent activities.
-  - Screenshot: ![Show a sample student dashboard view](https://drive.google.com/file/d/1tduYwcAvD625t_blrBJP73xpKfCQc-P-/view?usp=sharing)
+  - Screenshot: ![Show a sample student dashboard view](https://github.com/user-attachments/assets/716b9b10-4a10-4112-aa29-27dbdb6034cf)
 - Admin Dashboard: Allows admins to manage quizzes, view exam sessions, and monitor user activity.
-  - Screenshot: ![Show a sample admin dashboard view](https://drive.google.com/file/d/1_C_QUQVcDF6AfTAy0UghhUw6OkZNiVjw/view?usp=sharing)
+  - Screenshot: ![Show a sample admin dashboard view](https://github.com/user-attachments/assets/e9cca9c7-3a52-4305-8290-dd99349193fb)
   
 
  3. Taking an Exam
@@ -88,9 +88,10 @@ Once logged in, users are redirected to the dashboard.
 Students can access quizzes assigned to their class and start taking them.
 
 - Quiz Selection: Students see only the quizzes meant for their class.
-  - Screenshot: ![Show the quiz list for a specific class](https://drive.google.com/file/d/1O9rP2dYy8aeqqYgLgXata-erj1CNJMHU/view?usp=sharing)
+  - Screenshot: ![Show the quiz list for a specific class](https://github.com/user-attachments/assets/53528642-0c8e-4be0-bb66-4625ed70ea77)
 - Exam Interface: The quiz starts with a timer, questions are displayed one by one, and answers are submitted.
-  - Screenshot: ![Show an active quiz interface](https://drive.google.com/file/d/1yNbasWQjLx0tf0w7GnOI7Muwu5lyQjkE/view?usp=sharing)
+  - Screenshot: ![Show an active quiz interface](https://github.com/user-attachments/assets/5557c6cc-88fa-4e29-b38c-1a616d79a821)
+  - Screenshot: ![Show an active quiz interface](https://github.com/user-attachments/assets/f2db55b2-3c9b-4010-889d-1dae0cfdad0e)
 
 
  4. Real-Time Exam Monitoring
@@ -98,7 +99,10 @@ Students can access quizzes assigned to their class and start taking them.
 The application tracks real-time activities such as tab switches to prevent cheating.
 
 - Tab Switch Detection: If a user switches tabs, the system logs the action and displays a warning.
-  - Screenshot: ![Show a warning pop-up for tab switching](https://drive.google.com/file/d/1Iu7RjIC32BItbdpVhMyajITVAdDvSCGs/view?usp=sharing)
+  - Screenshot: ![Show a warning pop-up for tab switching](https://github.com/user-attachments/assets/f586f490-f8b4-4f97-8300-ac65e7f4c3b0)
+    
+- Instructions: user instructions , the system logs the action and displays a warning.
+  - Screenshot: ![Show a warning pop-up for tab switching](https://github.com/user-attachments/assets/5a6193fa-dc2c-4289-9053-0c5eae072ac6)
 
 
  5. Admin Panel Features
@@ -114,20 +118,20 @@ Admins can monitor ongoing sessions, download session data, and view user activi
 
 - Quiz Management: Admins can add, edit, or delete quizzes that students can access and attempt.
   - Add Quiz: Admins can create new quizzes, specifying the title, subject, and time limit.
-    - Screenshot: ![Display the “Add Quiz” form showing input fields for quiz details](https://drive.google.com/file/d/1ojPV4wFD93PgKBG0C6Di3mYDH-4g_tjP/view?usp=sharing)
+    - Screenshot: ![Display the “Add Quiz” form showing input fields for quiz details](https://github.com/user-attachments/assets/e4422799-e926-466d-955d-193ebf4f2b67)
   - Edit Quiz: Modify existing quizzes to update information or change available questions.
   - Delete Quiz: Remove quizzes from the system.
 
 
 - Question Management: Admins can add questions to each quiz, define question types, and specify correct answers.
   - Add Questions: Each quiz can have multiple questions with different types (e.g., multiple-choice, true/false).
-    - Screenshot: ![Show the “Add Question” interface, including fields for question text, options, and answer selection](https://drive.google.com/file/d/1R4G4_N5ZcQNLJp5rEyhlcPh-pGG4aQyH/view?usp=sharing)
+    - Screenshot: ![Show the “Add Question” interface, including fields for question text, options, and answer selection](https://github.com/user-attachments/assets/a5b05607-efc4-4d14-9740-2c31eca3653f)
   - Edit Questions: Update question content and answers as needed.
   - Delete Questions: Remove questions from quizzes if they are no longer needed.
 
 - Class Management: Admins can create and manage classes to organize students and assign quizzes accordingly.
   - Add Class: Set up new classes to categorize students by grade or section.
-    - Screenshot: ![Show the “Add Class” form with fields for class name and section](https://drive.google.com/file/d/1i63l85S2icFinr3ToBnavp3FeBJxzgmK/view?usp=sharing)
+    - Screenshot: ![Show the “Add Class” form with fields for class name and section](https://github.com/user-attachments/assets/1a31664e-0a5b-43f7-b26d-ea4a7b181a48)
   - Assign Quizzes to Classes: Link specific quizzes to each class so that only students in that class can access them.
 
   
@@ -139,7 +143,7 @@ Admins can monitor ongoing sessions, download session data, and view user activi
 At the end of an exam, students can see their scores and feedback.
 
 - Score Screen: Students are shown a summary of their performance.
-  - Screenshot: ![Show a sample score screen](https://drive.google.com/file/d/1OrOvC9Aq3XHLftVOKbmhmyZf6nLSBa0V/view?usp=sharing)
+  - Screenshot: ![Show a sample score screen](https://github.com/user-attachments/assets/941d53a7-721b-4755-9968-d1d18d62452c)
 
 
  Video Demonstration
